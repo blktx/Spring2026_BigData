@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_1UFeVTQCobjzYKtpMoE">
+    <mxGraphModel dx="840" dy="1981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="csoFbRNvEsMnZ4D6Sk4x-3" edge="1" parent="1" source="csoFbRNvEsMnZ4D6Sk4x-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="csoFbRNvEsMnZ4D6Sk4x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoFbRNvEsMnZ4D6Sk4x-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Storage Cluster&amp;nbsp;&lt;div&gt;(the 10TB)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="110" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="csoFbRNvEsMnZ4D6Sk4x-4" edge="1" parent="1" source="csoFbRNvEsMnZ4D6Sk4x-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="csoFbRNvEsMnZ4D6Sk4x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoFbRNvEsMnZ4D6Sk4x-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A Compute Cluster&amp;nbsp;&lt;div&gt;(4 Workers)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="110" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="csoFbRNvEsMnZ4D6Sk4x-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="MPI-Style" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="-10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
